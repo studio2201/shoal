@@ -7,14 +7,13 @@
 [![CI & EGO Bundle Verification](https://github.com/studio2201/shoal/actions/workflows/ci.yml/badge.svg)](https://github.com/studio2201/shoal/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/studio2201/shoal)](https://github.com/studio2201/shoal/releases/latest)
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/License-GPL--3.0--or--later-blue.svg)](LICENSE)
-[![Sponsor: Tuition, Not Coffee](https://img.shields.io/badge/Sponsor-Tuition%2C%20Not%20Coffee%20%F0%9F%8E%93-2ec27e)](https://ubermetroid.github.io/tuition-not-coffee)
 [![Star on GitHub](https://img.shields.io/github/stars/studio2201/shoal?style=social)](https://github.com/studio2201/shoal)
 
 **Shoal** (`shoal@studio2201.github.io`) is a fast, zero-subprocess, Wayland-native **AppIndicator, KStatusNotifierItem (`SNI`), DBusMenu, and Legacy XWayland System Tray** extension for **GNOME Shell 45–50**. It brings crisp top-bar tray icons, native GNOME Shell popup menus, real-time monochrome/contrast Clutter shader effects, and a **3-tab Libadwaita Settings & About dialog** to your desktop.
 
 Derived from [Ubuntu AppIndicator and KStatusNotifierItem Support](https://github.com/ubuntu/gnome-shell-extension-appindicator) (`appindicatorsupport@rgcjonas.gmail.com`) — stripped of legacy subprocess bus scanners (`tools/busAnalyzer.js`), custom pre-ES2022 promise wrappers, and constructor side effects, and engineered under the same strict [`AGENTS.md`](AGENTS.md) Page Rule and EGO standards as [**Kelp**](https://github.com/studio2201/kelp) and [**Reef**](https://github.com/studio2201/reef). Official project artwork is archived in [`brand/`](brand/) (`icon-512.png`, `icon-256.png`, `icon-160.png`, `favicon-64.png`).
 
-> 🎓 **Support Shoal — [Tuition, Not Coffee — Help send my daughter to college](https://ubermetroid.github.io/tuition-not-coffee)** · 🌐 [**Project Website (`studio2201.github.io/shoal`)**](https://studio2201.github.io/shoal/) · ⭐ [**Star studio2201/shoal on GitHub**](https://github.com/studio2201/shoal)
+> 🌐 [**Project Website (`studio2201.github.io/shoal`)**](https://studio2201.github.io/shoal/) · 🧪 [**Studio 2201 Lab (`studio2201.com/lab`)**](https://studio2201.com/lab) · ⭐ [**Star studio2201/shoal on GitHub**](https://github.com/studio2201/shoal)
 
 ---
 
@@ -83,12 +82,10 @@ pipx run shexli dist/shoal@studio2201.github.io.shell-extension.zip
 
 ---
 
-## 🎓 Sponsor / Support — Tuition, Not Coffee
+## Links
 
-If Shoal, Reef, and Kelp improve your daily Linux workflow, please consider supporting development:
-
-- 🎓 **Sponsor / Donate**: [**Tuition, Not Coffee — Help send my daughter to college**](https://ubermetroid.github.io/tuition-not-coffee)
 - 🌐 **Project Website**: [**studio2201.github.io/shoal**](https://studio2201.github.io/shoal/)
+- 🧪 **Studio 2201 Lab**: [**studio2201.com/lab**](https://studio2201.com/lab)
 - ⭐ **Star on GitHub**: [**github.com/studio2201/shoal**](https://github.com/studio2201/shoal)
 
 ---
